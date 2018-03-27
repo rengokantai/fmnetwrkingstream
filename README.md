@@ -23,3 +23,10 @@ node2
 ```
 nc localhost 5000
 ```
+
+### HTTP and Headers
+some verbs:
+- GET: fetch a document
+- POST: submit a form
+- HEAD: fetch metadata about a document
+- PUT: upload a file
