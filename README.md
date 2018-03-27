@@ -30,3 +30,11 @@ some verbs:
 - POST: submit a form
 - HEAD: fetch metadata about a document
 - PUT: upload a file
+
+```
+nc google.com 80
+GET / HTTP/1.0
+Host: google.com
+```
+
+### HTTP Post
